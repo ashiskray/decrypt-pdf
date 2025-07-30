@@ -1,4 +1,4 @@
-# Decrypt and pdf file 
+# Decrypt pdf file 
  
 * a simple script to decrypt pdf file using PyPDF2
 
